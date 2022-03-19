@@ -1,0 +1,30 @@
+.one,
+.two,
+.three{
+    background-color: burlywood;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.one{
+    color: red;
+}
+.two{
+    color: black;
+}
+.three{
+    color: white;
+}
+p{
+    color: #00ffff;
+}
+h1{
+    color: #00ffff;
+}
+h2{
+    color: #d87093;
+}
+
+li{
+    color: #ff0000;
+}
